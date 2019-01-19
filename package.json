@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-quangthinh",
+  "version": "0.0.1",
+  "description": "Eslint Rule",
+  "main": "index.js",
+  "author": "quangthinh <quangthinh.dico@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint-config-rallycoding": "^3.2.0"
+  }
+}
